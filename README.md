@@ -1,7 +1,7 @@
 #arcade-game
 ===============================
 
- ##Installation 
+ ## Installation 
  1. go to https://github.com/atab68/arcade-game/arc-game.git and download. 
  You can run this command on git bash console.
  2. git clone https://github.com/atab68/arcade-game/arc-game.git
@@ -12,4 +12,6 @@
  Run the code on browser
  Play the game.
  
+ ## Game
+ https://atab68.github.io/arcade-game/
  
